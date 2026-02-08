@@ -6,3 +6,5 @@ Just doing this to get started with competitive programming.
 
 
 Final commit before deleting the things here. 
+
+All DSA courses to be deleted hereafter.
